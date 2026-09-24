@@ -1,48 +1,37 @@
 # Privacy Policy — VidShrink - Video Compressor
 
-**Effective date:** September 12, 2026
+**Effective date:** September 25, 2026
 
-VidShrink - Video Compressor ("the app", "we", "us") compresses videos on your device. This policy explains how your videos and information are handled — and how little there is to handle.
+VidShrink - Video Compressor (the “app”) compresses videos on your iPhone or iPad. This policy applies to app versions 1.0 and 1.1.
 
-## The short version
+## Information and videos
 
-We do not collect, transmit, sell, or share any of your information. Compression happens entirely on your device, and your videos never leave it.
+The app does not use advertising, analytics, or tracking SDKs, and the developer does not receive your videos, Photos library, or compression records. Video analysis, compression, temporary files, and app records are processed or stored on your device. The app keeps local records such as source asset identifiers, file sizes, compression outcomes, and whether a compressed copy was saved, so it can show results, avoid processing the same item again, and protect originals. These records are not sent to the developer. Removing the app removes its local working data.
 
-## What data the app collects
+The app connects to Apple’s App Store services through StoreKit to display the one-time Unlimited Compressions product, make or restore purchases, and verify purchase entitlements. Apple processes payment information under Apple’s terms and privacy policy. The app does not receive your payment card details.
 
-None. The app contains no analytics, no advertising, no tracking, and no third-party SDKs. It makes no network connections and has no servers, so it cannot send your data anywhere.
+If you choose to share a video using the iOS share sheet, the destination app or service you select handles that transfer under its own terms.
 
-## Your videos
+## Photos access
 
-- You choose a video with the iOS system picker, and it is compressed locally using Apple's built-in media engine.
-- The compressed file and its temporary working files live only in the app's storage on your device. Temporary files are cleaned up automatically and are never sent anywhere.
-- Nothing you compress is uploaded, copied to any other service, or made available to anyone else. If you delete the app, its working files are deleted with it.
+- **Full or limited Photos access:** When you use Storage Checkup, the app reads the videos visible under your chosen Photos permission to identify eligible large videos and inspect the media locally. When you choose videos for compression, the app reads those videos for local analysis and compression. It can save compressed copies to your Photos library and a dedicated album when the required permission is available.
+- **Manage Originals:** The app requests read/write access when you choose to manage originals. It only requests deletion for originals linked to a compressed copy that was saved and verified, and only after you select the originals and confirm in the app. iOS moves deleted items to Recently Deleted according to Photos behavior.
+- **Add-only access:** Saving may work with add-only access, but scanning the library and managing originals require read/write access.
 
-## Your history
+The app does not send Photos content or library metadata to the developer. The app does not request camera, microphone, location, contacts, Bluetooth, or local network access.
 
-- The app keeps a list of your recent compressions — dates, sizes, and the mode you used — so you can see your savings over time. This list is stored in a file inside the app's own storage on your device, is never transmitted, and is removed when you delete the records or the app.
+## Purchases
 
-## Permissions the app requests and why
+The app includes 10 successful video compressions at no charge. Skipped or failed attempts do not use the allowance. A one-time, non-consumable Unlimited Compressions purchase unlocks further use. Apple processes purchases and restores through the App Store. The app stores purchase status and the free-use count on your device and checks verified purchase entitlements with Apple. Customers who purchased the prior paid version retain unlimited access, subject to Apple’s transaction verification.
 
-- **Photos:** Used only when you pick a video to compress. The app accesses only the item you select.
-- **Photos (add-only):** Used only when you save a compressed video back to your photo library. This permission can add items to your library but cannot read it.
+## Children’s privacy
 
-The app does not request camera, microphone, location, contacts, Bluetooth, or Local Network access, and has no use for them.
+The app is not designed to collect personal information from children. The developer does not receive information from the app. Parents and guardians should use iOS Photos permissions and Apple account purchase controls as appropriate.
 
-## Third parties
+## Changes
 
-No third-party services, ad networks, or analytics providers are embedded in the app, so no information about you can reach third parties through it.
-
-## Children's privacy
-
-The app collects no data from any user of any age, so no personal information is collected from children under 13.
-
-## Changes to this policy
-
-If a future version changes how information is handled, we will update this page and the release notes before that version ships. The on-device, no-collection design described here applies to version 1.0.
+This policy may be updated when the app’s data practices change. The effective date above indicates the latest revision.
 
 ## Contact
 
-Questions about this policy or the app:
-
-Email: lv2zhangliang@icloud.com
+Questions about this policy or the app: [lv2zhangliang@icloud.com](mailto:lv2zhangliang@icloud.com).
